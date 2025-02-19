@@ -1,7 +1,6 @@
 🔐 Image-Based Steganography - Hide & Retrieve Secret Messages
 A Python project for securely hiding and extracting messages inside images using steganography.
 
-(Replace the above link with an actual image from your project)
 
 📌 Overview
 This project implements image-based steganography to hide and retrieve secret messages inside PNG images without noticeable changes. It uses pixel manipulation to embed data securely.
